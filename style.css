@@ -1,0 +1,14 @@
+body {
+
+
+}
+.nav {
+  text-align: center;
+  font-size: 50px;
+}
+.nav: a:hover {
+  color: pink;
+}
+.nav: a:enabled {
+  color: darkblue;
+}
